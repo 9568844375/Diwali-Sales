@@ -57,12 +57,6 @@ Optimize stock levels based on sales trends from previous years.
 Conclusion
 The analysis highlights key factors contributing to Diwali sales success. By leveraging these insights, businesses can better prepare for future festive seasons and drive higher revenue.
 
-How to Run the Project
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/diwali-sales-analysis.git
 Install the required Python libraries:
 bash
 Copy
